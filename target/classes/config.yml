@@ -1,0 +1,23 @@
+###
+# Coded by Tazsjah
+###
+
+
+# Voting Item to give to players
+voting-item: COMPASS
+voting-item-name: "&3Vote for Games"
+voting-item-sound: BLOCK_WOODEN_PRESSURE_PLATE_CLICK_ON
+voting-item-sound-volume: 1
+voting-item-sound-pitch: 2
+
+
+# Gui Items
+gui-name: "&3&lVote for a game"
+item-lore: "&7Click here to vote"
+open-sound: ENTITY_BAT_AMBIENT
+open-sound-volume: 0.5
+open-sound-pitch: 0.5
+
+# Global Messages
+vote-finished: "&7Voting has finished! The next game will be: $top-team"
+vote-actionbar: "&7Voting will end in &a$time"
